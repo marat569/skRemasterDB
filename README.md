@@ -1,2 +1,6 @@
-# skRemasterDB
-Database of Games and what Remasters work with SpecialK
+
+
+**Fate/Samurai Remnant**
+  - Requires sRGB Bypass
+  
+  - All remasters work **EXCEPT** 8 bit render passes
