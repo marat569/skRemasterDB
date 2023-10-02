@@ -13,3 +13,12 @@ This list assumes the games are on **STEAM** , I don't have any other platform
   - 8 bit render passes are **Mandatory** to get the game looking normal
     - Overbright bits on highlights
 
+**ONE PIECE ODYSSEY**
+  - 8 + 11 bit render passes
+      - If only 8 bit render passes are enabled, the game looks Magenda, While both 8 plus 11 enabled at the same time look great
+
+  **CRISIS CORE –FINAL FANTASY VII– REUNION**
+
+    - Remasters do not work
+      - 8 Bit remasters crash the game
+      - 10/11 bit remasters create artifacts
