@@ -34,6 +34,11 @@ This list assumes the games are on **STEAM** , I don't use any other platform
   - All remasters work
       - Overbright bits created
    
+**Atelier Ryza: Ever Darkness & the Secret Hideout** (Ryza 1)
+  - 10 + 11 bit remasters work
+
+  - 8 bit remasters cause issues
+   
 **Like a Dragon: Ishin!** (-d3d11)
   - All render passes work
     - Eats up a fair bit of vram due to the large number of render passes
