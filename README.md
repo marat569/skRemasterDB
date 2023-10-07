@@ -1,6 +1,6 @@
-My personal list of games and what remasters work with SpeicalK.
+My personal list of games and what remasters work with SpeicalK ( https://special-k.info/ ) . 
 
-This list assumes the games are on **STEAM** , I don't have any other platform
+This list assumes the games are on **STEAM** , I don't use any other platform
 
 **Tales of Arise**
   - 8 + 10 bit remasters work
