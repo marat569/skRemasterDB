@@ -2,6 +2,11 @@ My personal list of games and what remasters work with SpeicalK.
 
 This list assumes the games are on **STEAM** , I don't have any other platform
 
+**Tales of Arise**
+  - 8 + 10 bit remasters work
+  
+  - 11 bit remasters cause artifacts
+
 **Fate/Samurai Remnant**
   - sRGB Bypass Required
   
